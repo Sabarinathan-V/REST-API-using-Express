@@ -12,19 +12,19 @@ Follow the instructions below to get a copy of this project up and running on yo
 
 ## Installing
 
-    Clone this repository to your local machine.
+1. Clone this repository to your local machine.
     
     git clone https://github.com/your-username/your-repo.git
 
-    Navigate into the cloned repository.
+2. Navigate into the cloned repository.
 
     cd your-repo
 
-    Install the required dependencies.
+3. Install the required dependencies.
 
     npm install
 
-    Start the application.
+4. Start the application.
 
     npm start
 
