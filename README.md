@@ -65,4 +65,4 @@ The response body for a successful request will be in JSON format and include th
     
 ## Deployed API
 
-You can access my API at [https://rest-api-using-express.onrender.com] (https://rest-api-using-express.onrender.com).
+You can access my API at [API Link](https://rest-api-using-express.onrender.com).
