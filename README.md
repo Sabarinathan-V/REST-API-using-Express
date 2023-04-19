@@ -63,6 +63,6 @@ The response body for a successful request will be in JSON format and include th
     MongoDB Atlas - The database used
     Mongoose - Object modeling tool for MongoDB
     
-## Deployed APi
-    
-    You can access my API at [https://rest-api-using-express.onrender.com](https://rest-api-using-express.onrender.com)
+## Deployed API
+
+You can access my API at [https://rest-api-using-express.onrender.com] (https://rest-api-using-express.onrender.com).
